@@ -18,7 +18,7 @@ $ gem install cocoapods
 
 Add `KGHeartBeatz` in your `Podfile`.
 
-```ruby
+```
 use_frameworks!
 
 pod 'KGHeartBeatz'
