@@ -12,7 +12,7 @@
 
 Install Cocoapods if need be.
 
-```bash
+```
 $ gem install cocoapods
 ```
 
