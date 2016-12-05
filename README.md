@@ -6,7 +6,6 @@
 
 `KGHeartBeatz` is a heart beat wave animation.
 
-
 # Installation
 
 ## Cocoapods
@@ -27,7 +26,7 @@ pod 'KGHeartBeatz'
 
 Then, run the following command.
 
-```bash
+```
 $ pod install
 ```
 ## Carthage
